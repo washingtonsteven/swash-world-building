@@ -12,6 +12,10 @@ Somehow acquired a [[Class III Gridskipper]] (_[[The Opal Star]]_) and is hoppin
 
 He lived in a fancy community on [[Nides]].
 
+> 💡 This could be the Player Character, and thus the player names him, and likely the gender as well. Which complicates writing only a bit. The game implementation is what really gets weird.
+> Everything else here can be canon, but the name would be customizable.
+> Maybe species and backstory if there's time/I'm feeling more ambitious. I don't think that's a good idea for the first outing though.
+
 ## Background
 
 > 💡 This should consider why Caleb is leaving his home. Dead parents? Orphan? Why does he need to get found family? Is his family just awkwardly estranged? We can get autobiographical on this but tbh that's scawwy.

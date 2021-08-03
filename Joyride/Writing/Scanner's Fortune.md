@@ -1,6 +1,7 @@
 ---
 tags:
     - writing
+    - setting/joyride
 ---
 
 # Scanner's Fortune

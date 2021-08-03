@@ -1,6 +1,6 @@
 ---
 tags:
-    - writing
+    - world-building/writing
     - setting/joyride
 ---
 

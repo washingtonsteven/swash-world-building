@@ -11,14 +11,14 @@ This is Mora's found caravan after she was disowned from her original familial o
 
 ## Members
 ### Existing
-- [[Mora Evelu]]
-- [[Rhea Zelais]] - Centaur?
-- [[Sodim Crash]] - Brute
+- [[Mora Evelu]] - [[Lemnae]]
+- [[Rhea Zelais]] - [[Kolva]]
+- [[Sodim Crash]] - [[Cedanine]]
 - [[Alex Irpha]] - [[Mirleon]], nb
 
 ### New
-- [[Caleb Hertz]]
-- [[Xana Lamier]] - Plant, after Caleb joins
+- [[Caleb Hertz]] - [[Mirleon]]
+- [[Xana Lamier]] - [[Cillid]], after Caleb joins
 
 ---
 [[Joyride Hub]]

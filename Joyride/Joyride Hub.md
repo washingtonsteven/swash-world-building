@@ -26,6 +26,7 @@ Could possibly steal points from [[The Moon]] and [[The Old God]] from [[Crowste
 - Intro to [[Caleb Hertz|Caleb]] and [[The Opal Star]]
 - First few worlds of exploration
     - What do we do here? Random tasks for people? Uncovering artifacts? Meeting people and learning about the galaxy.
+        - 💡 The Scientists have been uncovering new worlds, expanding outside of their little corner of the galaxy. While they are able to discover things about planets through spectroscopy and distanced observations, there's nothing like boots-on-ground reconnisance. The Scientists use their observations to find obviously inhospitable planets and build rovers and unmanned drones there, but for near-habitable planets, they offer bounties for [[Navigators]] to go, piggyback on their ship's systems, and collect info about planets that they land on. Think SETI@Home irl.
     - Gather a few bits of the fam.
     - These can be wild and crazy, think of hopping between train cars in Infinity Train.
 - Find first "big plot" artifact, and an upgrade for the ship

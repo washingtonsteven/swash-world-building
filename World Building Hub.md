@@ -1,5 +1,7 @@
 ---
 aliases: Settings
+tags:
+    - world-building/hub 
 ---
 
 # Settings

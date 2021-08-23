@@ -25,7 +25,7 @@ Usually caravans are named for their leader's ship, however custom names aren't 
 
 ---
 
-("Item" is a weird description for this one)
+("Item" is a weird description/tag for this one)
 
 \*This group should be similar in function as the W3C or similar.
 

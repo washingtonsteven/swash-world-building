@@ -18,7 +18,7 @@ This is Mora's found caravan after she was disowned from her original familial o
 
 ### New
 - [[Caleb Hertz]] - [[Mirleon]]
-- [[Xana Lamier]] - [[Cillid]], after Caleb joins
+- [[Xana Lamier]] - [[Zomad]], after Caleb joins
 
 ---
 [[Joyride Hub]]

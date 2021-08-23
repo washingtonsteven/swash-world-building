@@ -4,5 +4,6 @@
   "useTab": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "attachmentFolderPath": "_meta/attachments"
+  "attachmentFolderPath": "_meta/attachments",
+  "fileSortOrder": "byModifiedTime"
 }

@@ -1,7 +1,6 @@
 ---
 tags:
-    - fanfic
-    - setting/night-vale
+    - world-building/writing
     - setting/crowstead
 ---
 

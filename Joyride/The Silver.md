@@ -5,11 +5,9 @@ tags:
 ---
 # The Silver
 
-Race that exists as energy/data, transcended physical form.
+Race that exists as energy/data, transcended physical form. Mostly a legend, only those who have traveled too much speak of them with any seriousness. 
 
-Why do they still have bodies, why do they still interact with organics?
-
-(Related to [[Thonics]]? [[Humans]]? Both?)
+Otherwise, are used as standard "bogeymen" for scary stories.
 
 ---
 [[Joyride Hub]]

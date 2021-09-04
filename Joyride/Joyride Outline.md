@@ -3,11 +3,14 @@ tags:
     - world-building/meta
     - setting/joyride
 ---
-
 # Joyride Outline
 
 - Intro to [[Caleb Hertz|Caleb]] and [[The Opal Star]]
     - Also the [[Thylacine Harpy Caravan]]
+    - On a Hub Station ([[Juno Terminal]]), Caleb meets the Caravan while getting bounties.
+        - Conversation with [[Mora Evelu|Mora]].
+            - Player can pretend they've gotten bounties before, Mora calls them out
+            - Or play it straight as a newbie
 - First few worlds of exploration
     - What do we do here? Random tasks for people? Uncovering artifacts? Meeting people and learning about the galaxy.
         - 💡 The [[Scientists]] have been uncovering new worlds, expanding outside of their little corner of the galaxy. While they are able to discover things about planets through spectroscopy and distanced observations, there's nothing like boots-on-ground reconnisance. The Scientists use their observations to find obviously inhospitable planets and build rovers and unmanned drones there, but for near-habitable planets, they offer bounties for [[Navigators]] to go, piggyback on their ship's systems, and collect info about planets that they land on. Think SETI@Home irl.

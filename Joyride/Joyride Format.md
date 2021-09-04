@@ -3,7 +3,6 @@ tags:
     - world-building/meta
     - setting/joyride
 ---
-
 # Joyride Format
 
 Stories here will be written in Twine/Twee. As a series of episodic "chapters." This may end up being separate Twine stories, or separate chunks within Twine (or using uncludes if using Twee).

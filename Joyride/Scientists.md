@@ -3,7 +3,6 @@ tags:
     - world-building/character-group
     - setting/joyride
 ---
-
 # Scientists
 
 The group of people working on exploring the galaxy. 

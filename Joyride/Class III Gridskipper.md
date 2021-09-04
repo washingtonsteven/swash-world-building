@@ -7,7 +7,7 @@ tags:
 
 Is a small, two-person ship.
 
-[[Caleb Hertz|Caleb]]'s Gridskipper is named _[[The Opal Star]]_.
+[[Caleb Hertz|Caleb]]'s Gridskipper is named _[[The Opal Star]]_.s
 
 ---
 [[Joyride Hub]]

@@ -3,7 +3,6 @@ tags:
     - world-building/location 
     - setting/joyride
 ---
-
 # Old Human Empire
 
 The region of the galaxy that the ancient humans had spread their influence to, with the [[Sol System]] and [[Earth]] at the center.

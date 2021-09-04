@@ -3,7 +3,6 @@ tags:
     - world-building/item 
     - setting/joyride
 ---
-
 # Caravans
 
 A caravan is a group of people who have entered an agreement to fly together, for safety and companionship.
@@ -21,13 +20,6 @@ Usually caravans are named for their leader's ship, however custom names aren't 
 ## Rules
 - Don't be a dick.
 - More rules tbd
-
-
----
-
-("Item" is a weird description/tag for this one)
-
-\*This group should be similar in function as the W3C or similar.
 
 
 ---

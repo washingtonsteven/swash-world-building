@@ -3,7 +3,6 @@ tags:
     - setting/joyride
     - world-building/item
 ---
-
 # Planetary Beacon Bounty Board (PB3)
 This is a digital board of celestial bodies that the [[Scientists]] have curated in order to reward exploration of the planet.
 

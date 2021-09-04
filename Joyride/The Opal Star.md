@@ -7,5 +7,7 @@ tags:
 
 _The Opal Star_ is a [[Class III Gridskipper]] owned by [[Caleb Hertz]].
 
+It is also partially run by [[Gridskipper AI]].
+
 ---
 [[Joyride Hub]]

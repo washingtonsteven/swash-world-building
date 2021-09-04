@@ -7,7 +7,7 @@ tags:
 
 This is a group of [[Navigators]] that [[Caleb Hertz|Caleb]] meets (through [[Mora Evelu|Mora]]) at [[Juno Terminal]].
 
-This is Mora's found caravan after she was disowned from her original familial one.
+Mora founded this Caravan after being disowned from [her original caravan|Mora's Original Caravan]
 
 ## Members
 ### Existing

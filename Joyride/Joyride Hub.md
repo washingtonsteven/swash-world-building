@@ -4,7 +4,6 @@ tags:
     - world-building/hub 
     - setting/joyride
 ---
-
 # Joyride
 
 ## Table of Contents

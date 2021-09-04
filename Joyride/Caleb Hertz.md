@@ -36,5 +36,6 @@ Occasionally, Caleb goes down to the planet with some schoolmates, and makes fri
 - How did he get it?
     - Purchase? Stolen? Gifted?
 
+
 ---
 [[Joyride Hub]]

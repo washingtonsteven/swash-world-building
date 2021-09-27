@@ -14,7 +14,7 @@ Mora founded this Caravan after being disowned from [her original caravan|Mora's
 - [[Mora Evelu]] - [[Lemnae]]
 - [[Rhea Zelais]] - [[Kolva]]
 - [[Sodim Crash]] - [[Cedanine]]
-- [[Alex Irpha]] - [[Mirleon]], nb
+- [[Alex Irpha]] - [[Mirleon]]
 
 ### New
 - [[Caleb Hertz]] - [[Mirleon]]

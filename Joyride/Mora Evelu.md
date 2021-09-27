@@ -12,5 +12,7 @@ Mora is older than [[Caleb Hertz|Caleb]] by a bit, easily fitting into a big sis
 
 She is a part of [[Thylacine Harpy Caravan|a small caravan]] that takes Caleb in.
 
+She has been disowned by her original family/caravan for (reasons TBD), having a strained relationship with her uncle. Her parents were lost when a passenger transport when missing, and are presumed dead.
+
 ---
 [[Joyride Hub]]

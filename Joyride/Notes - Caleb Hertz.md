@@ -1,5 +1,4 @@
 ---
-aliases: Caleb
 tags:
     - world-building/notes 
     - setting/joyride

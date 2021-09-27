@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:_meta -path:_index",
+  "search": "-path:_meta -path:_index tag:#setting/joyride",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588386562181631,
+  "scale": 0.3628873693012124,
   "close": false
 }

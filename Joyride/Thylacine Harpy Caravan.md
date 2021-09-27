@@ -18,7 +18,8 @@ Mora founded this Caravan after being disowned from [her original caravan|Mora's
 
 ### New
 - [[Caleb Hertz]] - [[Mirleon]]
-- [[Xana Lamier]] - [[Zomad]], after Caleb joins
+- [[Xana Lamier]] - [[Zomad]], rescued from the [[Eon Rapture]]
+- [[Eon]] - AI of the [[Eon Rapture]]
 
 ---
 [[Joyride Hub]]

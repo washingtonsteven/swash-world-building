@@ -26,6 +26,17 @@ tags:
         - I'm adding this because it's cool, not because it makes sense.
 
 
+## Side Plots
+### Abandoned Colonies
+The [[Thylacine Harpy Caravan]] find an abandoned colony, the ruins are unrecognizable. They eventually discover a secret [[Joyride Government]] plot to hide something about these colonies. Seeeecret knowledge.
+
+### What happened on the [[Eon Rapture]]
+After [[Xana Lamier]] is rescued, the gang and [[Eon]] attempt to find out what happened, and why Xana was there in the first place.
+
+### [[Alex Irpha|Alex's]] History
+"Adopting" Alex from their home would lead to potential prying or eventual admission/working through their past and what brought them to this point.
+
+
 ## Old Notes
 ### The Cosmic Spark
 This is the thing that sort of elevates the story of Caleb and the rest of the [[Thylacine Harpy Caravan]] to galactic, existential stakes.

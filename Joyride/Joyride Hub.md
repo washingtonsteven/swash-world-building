@@ -28,7 +28,7 @@ He meets others and forms friendships with them. Some of them join him on his jo
 
 ## Cover
 
-![[oceanwalk1.jpg]]
+![oceanwalk1.jpg](./images/oceanwalk1.jpg)
 
 ## One offs / Short Ideas
 

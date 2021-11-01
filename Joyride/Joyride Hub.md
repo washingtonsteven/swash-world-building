@@ -1,10 +1,10 @@
 ---
-aliases: Joyride
+aliases: Joyride, Starchaser
 tags:
     - world-building/hub 
     - setting/joyride
 ---
-# Joyride
+# Joyride / Starchaser
 
 ## Table of Contents
 

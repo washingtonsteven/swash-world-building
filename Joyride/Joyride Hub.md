@@ -29,6 +29,7 @@ He meets others and forms friendships with them. Some of them join him on his jo
 ## Cover
 
 ![oceanwalk1.jpg|450](./images/oceanwalk1.jpg)
+(source: https://twitter.com/reiter_rilke/status/1141045011225731072)
 
 ## One offs / Short Ideas
 

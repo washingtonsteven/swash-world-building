@@ -16,7 +16,7 @@ Thonics living in an asteroid field have built a religion around one specific as
 
 ## Characters
 - [[Micah Warren]]
-- [[Substrate Saga/Ariadne]]
+- [[Ariadne]]
 - [[Trapped God Wolf Friend]]
 
 ---

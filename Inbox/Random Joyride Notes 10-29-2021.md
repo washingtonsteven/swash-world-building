@@ -17,6 +17,7 @@
                     - Gave him a sword and some string to find his way back
             - Ariadne's Secrets
             - I like this as a planet name, but idk about a title
+                - Stealing this for the name of the mentor in Substrate
             - Betrayal of the Labyrinth, **Navigators in the Labyrinth**
             - **Starchaser**
 - New Name for Caravans

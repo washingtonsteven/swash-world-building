@@ -6,7 +6,7 @@ tags:
 ---
 # The Quartet
 
-A group of Thonics who discovered the center of the [[Floating Archipelago]], [[The City]]
+A group of Thonics who discovered the center of the [[Floating Archipelago]], [[Themis]]
 
 ## Members
 List TBD

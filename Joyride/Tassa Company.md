@@ -5,7 +5,7 @@ tags:
 ---
 <!-- Change `story_element_tag` and `setting_slug` above!!-->
 
-# Story Element
+# Tassa Company
 
 The company that makes the [[Class III Gridskipper]]
 
